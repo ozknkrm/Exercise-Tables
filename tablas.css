@@ -1,0 +1,137 @@
+body{
+    margin: 60px;
+    padding: 60px;
+    background-image: url('https://thumbs.dreamstime.com/b/fondo-ligero-de-nuevos-tableros-madera-120950441.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 80% 80%;
+   
+}
+h1{
+    margin-left: 99px;
+}
+table{
+    background-color: green;
+}
+td{
+    font-size: large;
+    position: relative;  
+    margin: 40px;
+    padding: 10px;
+}
+th{
+    position: relative;
+    left: 173px;
+    bottom: 12px;
+    margin: 40px;
+    padding: 10px;
+}
+p{
+    font-family: Verdana;    
+    font-size: larger;
+    margin-left: 3px;
+    position: relative;
+    padding: 2px;
+    right: 25px;
+}   
+.b{
+    background-color: black;
+}
+.t{
+    background-color: teal;
+}
+.bl{
+    background-color: blue;
+}
+.n{
+    background-color: navy;
+}
+.l{
+    background-color: lime;
+}
+.w{
+    background-color: white;
+}
+.p{
+    background-color: purple;
+}
+.y{
+    background-color: yellow;
+}
+.o{
+    background-color: olive;
+}
+.r{
+    background-color: red;
+}
+.m{
+    background-color: black;
+}
+.gr{
+    background-color: gray;
+}
+.ol{
+    background-color: olive;
+}
+.re{
+    background-color: red;
+}
+.f{
+    background-color: fuchsia;
+}
+.g{
+    background-color: green;
+}
+p{
+    display: inline;
+}
+#black{
+    color: black;
+}
+#teal{
+    color: teal;
+    
+}
+#blue{
+    color: blue;
+}
+#navy{
+    color: navy;
+}
+#lime{
+    color: lime;
+}
+#white{
+    color: white;
+}
+#purple{
+    color: purple;
+}
+#yellow{
+    color: yellow;
+}
+
+#olive{
+    color: olive;
+}
+#red{
+    color: red;
+}
+#marron{
+    color: black;
+}
+#gray{
+    color: gray;
+}
+#fuchsia{
+    color: fuchsia;
+}
+#green{
+    color: green;
+}
+#aqua{
+    color: aqua;
+}
+#silver{
+    color: silver;
+}
